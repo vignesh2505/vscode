@@ -3,3 +3,7 @@ color: rgb(221, 63, 20);}
 marquee{background-color: black;
 color: aliceblue;
 font-size: xx-large;}
+table{border: solid;}
+th{border: solid;}
+tr{border: solid;}
+td{border: solid;}
